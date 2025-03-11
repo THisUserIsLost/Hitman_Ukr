@@ -197,7 +197,7 @@ namespace ZipBuilder
 
         private static string Escape(string value)
         {
-            return value.Replace("\"", "\\\""); // ≈крануЇмо лапки всередин≥ значень
+            return value.Replace("\"", "\\\"").Replace("\\\\\"", "\\\""); // ≈крануЇмо лапки всередин≥ значень
         }
     }
 }

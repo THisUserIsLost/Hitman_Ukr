@@ -101,8 +101,8 @@ namespace ZipBuilder
 
                 var outputOriginal = txt2Folder + "\\" + fileName;
                 var lines = File.ReadAllText(pathOriginal, Encoding.UTF8);
-                var hloc = PremissionParser.Parse(lines);
-                var pathUkr = localPath + "\\json\\" + Path.ChangeExtension(fileName, "json");
+                var hloc = PremissionParser.Parse(lines);               
+                var pathUkr = fileName == "M00_main.txt"? localPath + "\\json\\" +"main\\main.json": localPath + "\\json\\" + Path.ChangeExtension(fileName, "json");
                 var jsonText = File.ReadAllTextAsync(pathUkr, Encoding.UTF8).GetAwaiter().GetResult();
                 var hlocUkr = JsonConvert.DeserializeObject<HLocClass>(jsonText);
                 hlocUkr.children[0] = ukr;
@@ -226,33 +226,33 @@ namespace ZipBuilder
 
             ConvertFromTxtToLoc();            
 
-            //M00_MAIN.JSON
-            string locFileM00 = locDirectory + "\\" + $"M00_main.LOC";
-            string jsonFileM00 = jsonDirectory + "\\" + $"M00_main.json";
-            Process process2 = new Process()
-            {
-                StartInfo = new ProcessStartInfo
-                {
-                    FileName = "hitmanbe",
-                    Arguments = $"\"{jsonFileM00}\" \"{locFileM00}\"",
-                    RedirectStandardOutput = true,
-                    RedirectStandardError = true,
-                    UseShellExecute = false,
-                    CreateNoWindow = true
-                }
-            };
+            ////M00_MAIN.JSON
+            //string locFileM00 = locDirectory + "\\" + $"M00_main.LOC";
+            //string jsonFileM00 = jsonDirectory + "\\" + $"M00_main.json";
+            //Process process2 = new Process()
+            //{
+            //    StartInfo = new ProcessStartInfo
+            //    {
+            //        FileName = "hitmanbe",
+            //        Arguments = $"\"{jsonFileM00}\" \"{locFileM00}\"",
+            //        RedirectStandardOutput = true,
+            //        RedirectStandardError = true,
+            //        UseShellExecute = false,
+            //        CreateNoWindow = true
+            //    }
+            //};
 
-            Console.WriteLine($"Processing: {jsonFileM00} -> {locFileM00}");
-            process2.Start();
-            process2.WaitForExit();
+            //Console.WriteLine($"Processing: {jsonFileM00} -> {locFileM00}");
+            //process2.Start();
+            //process2.WaitForExit();
 
-            string output = process2.StandardOutput.ReadToEnd();
-            string error = process2.StandardError.ReadToEnd();
+            //string output = process2.StandardOutput.ReadToEnd();
+            //string error = process2.StandardError.ReadToEnd();
 
-            if (!string.IsNullOrEmpty(output))
-                Console.WriteLine(output);
-            if (!string.IsNullOrEmpty(error))
-                Console.WriteLine($"Error: {error}");
+            //if (!string.IsNullOrEmpty(output))
+            //    Console.WriteLine(output);
+            //if (!string.IsNullOrEmpty(error))
+            //    Console.WriteLine($"Error: {error}");
 
 
         }
