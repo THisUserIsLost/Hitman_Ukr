@@ -1148,7 +1148,7 @@ Please insert a Memory Card (8MB)(for PlayStation®2) into MEMORY CARD slot 1."
 				"txtTotalKills" = "ВБИВСТВ"
 				"txtWitnesses" = "СВIДКIВ"
 			]
-			"MissionBreakdownDetails" = "РОЗБIР ДЕТАЛЕЙ МIСIЁ"
+			"MissionBreakdownDetails" = "РОЗБIР ДЕТАЛЕЙ ЗАВДАННЯ"
 			"MissionBriefing" = "MISSION BRIEFING"
 			"MissionFailed" [
 				"HitmanDied" = "Agent 47 died."
