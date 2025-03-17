@@ -1564,7 +1564,7 @@
             {
               "name": "Discard2",
               "org_tbyte": 9,
-              "value": "{ZW_CANCEL} КИНУТИ",
+              "value": "{ZW_CANCEL} СКИНУТИ",
               "numChildren": 0,
               "type": "data"
             },
@@ -2257,21 +2257,21 @@
             {
               "name": "Expert_PC",
               "org_tbyte": 9,
-              "value": "- До трьох збережень\n- Покращений AI\n- Мiнiмальна допомога Агентства\n- Ефекти впiзнаваностi\n- Свiдки знижують рейтинг\n- Експорт статистики дозволено",
+              "value": "- До трьох збережень\n- Покращений ШI\n- Мiнiмальна допомога Агентства\n- Ефекти впiзнаваностi\n- Свiдки знижують рейтинг\n- Експорт статистики дозволено",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Expert_PS2",
               "org_tbyte": 9,
-              "value": "-Three Saves Permitted\n-Increased AI Behavior\n-Reduced Agency Assistance\n-Notoriety In-Effect\n-Evidence Impacts Rating",
+              "value": "-Three Saves Permitted\n-Increased ШI Behavior\n-Reduced Agency Assistance\n-Notoriety In-Effect\n-Evidence Impacts Rating",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Expert_XBOX",
               "org_tbyte": 9,
-              "value": "-Three Saves Permitted\n-Increased AI Behaviour\n-Reduced Agency Assistance\n-Notoriety In-Effect\n-Evidence Impacts Rating",
+              "value": "-Three Saves Permitted\n-Increased ШI Behaviour\n-Reduced Agency Assistance\n-Notoriety In-Effect\n-Evidence Impacts Rating",
               "numChildren": 0,
               "type": "data"
             },
@@ -2306,42 +2306,42 @@
             {
               "name": "Normal_PC",
               "org_tbyte": 9,
-              "value": "- До семи збережень\n- Повнiстю функцiонуючий AI \n- Допомога Агентства\n- Ефекти впiзнаваностi\n- Експорт статистики дозволено",
+              "value": "- До семи збережень\n- Повнiстю функцiонуючий ШI \n- Допомога Агентства\n- Ефекти впiзнаваностi\n- Експорт статистики дозволено",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Normal_PS2",
               "org_tbyte": 9,
-              "value": "-Seven Saves Permitted\n-Full AI Behavior\n-Agency Assistance\n-Notoriety In-Effect",
+              "value": "-Seven Saves Permitted\n-Full ШI Behavior\n-Agency Assistance\n-Notoriety In-Effect",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Normal_XBOX",
               "org_tbyte": 9,
-              "value": "-Seven Saves Permitted\n-Full AI Behaviour\n-Agency Assistance\n-Notoriety In-Effect\n-Statistic Upload to Xbox Live Available",
+              "value": "-Seven Saves Permitted\n-Full ШI Behaviour\n-Agency Assistance\n-Notoriety In-Effect\n-Statistic Upload to Xbox Live Available",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Professional_PC",
               "org_tbyte": 9,
-              "value": "- Збереження не дозволено\n- Покращений AI\n- Мiнiмальна допомога Агентства\n- Ефекти впiзнаваностi\n- Свiдки знижують рейтинг\n- Експорт статистики дозволено",
+              "value": "- Збереження не дозволено\n- Покращений ШI\n- Мiнiмальна допомога Агентства\n- Ефекти впiзнаваностi\n- Свiдки знижують рейтинг\n- Експорт статистики дозволено",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Professional_PS2",
               "org_tbyte": 9,
-              "value": "-Saves Not Permitted\n-Advanced AI Behavior\n-Minimal Agency Assistance\n-Notoriety In-Effect\n-Evidence Impacts Rating",
+              "value": "-Saves Not Permitted\n-Advanced ШI Behavior\n-Minimal Agency Assistance\n-Notoriety In-Effect\n-Evidence Impacts Rating",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Professional_XBOX",
               "org_tbyte": 9,
-              "value": "-Saves Not Permitted\n-Advanced AI Behaviour\n-Minimal Agency Assistance\n-Notoriety In-Effect\n-Evidence Impacts Rating\n-Statistic Upload to Xbox Live Available",
+              "value": "-Saves Not Permitted\n-Advanced ШI Behaviour\n-Minimal Agency Assistance\n-Notoriety In-Effect\n-Evidence Impacts Rating\n-Statistic Upload to Xbox Live Available",
               "numChildren": 0,
               "type": "data"
             },
@@ -2404,21 +2404,21 @@
             {
               "name": "Rookie_PC",
               "org_tbyte": 9,
-              "value": "- Кiлькiсть збережених iгор не обмежена\n- Поблажливий AI\n- Повна допомога Агентства\n- Впiзнаванiсть не дiэ\n- Експорт статистики дозволено",
+              "value": "- Кiлькiсть збережених iгор не обмежена\n- Поблажливий ШI\n- Повна допомога Агентства\n- Впiзнаванiсть не дiэ\n- Експорт статистики дозволено",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Rookie_PS2",
               "org_tbyte": 9,
-              "value": "-Infinite Saves\n-Accommodating AI\n-Full Agency Assistance\n-No Notoriety Impact",
+              "value": "-Infinite Saves\n-Accommodating ШI\n-Full Agency Assistance\n-No Notoriety Impact",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Rookie_XBOX",
               "org_tbyte": 9,
-              "value": "-Infinite Saves\n-Accommodating AI\n-Full Agency Assistance\n-No Notoriety Impact",
+              "value": "-Infinite Saves\n-Accommodating ШI\n-Full Agency Assistance\n-No Notoriety Impact",
               "numChildren": 0,
               "type": "data"
             },
@@ -24191,7 +24191,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} НЕБОЛЬШЕ ЗБIЛЬШЕННЯ",
+                  "value": "{bullet_square} НЕВЕЛИКЕ ЗБIЛЬШЕННЯ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -24282,7 +24282,7 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ВИСОЧА ТОЧНIСТЬ",
+                  "value": "{bullet_square} ВИСОКА ТОЧНIСТЬ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -24457,7 +24457,7 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ЗБIЛЬША ВIДДАЧА",
+                  "value": "{bullet_square} ЗБIЛЬШЕНА ВIДДАЧА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -24919,7 +24919,7 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ВИСОЧА ТОЧНIСТЬ",
+                  "value": "{bullet_square} ВИСОКА ТОЧНIСТЬ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -26025,7 +26025,7 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ВИСОЧА ТОЧНIСТЬ",
+                  "value": "{bullet_square} ВИСОКА ТОЧНIСТЬ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -26200,7 +26200,7 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ЗБIЛЬША ВIДДАЧА",
+                  "value": "{bullet_square} ЗБIЛЬШЕНА ВIДДАЧА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -26529,14 +26529,14 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ВИСОЧА ШВИДКIСТЬ СТРIЛЬБИ",
+                  "value": "{bullet_square} ВИСОКА ШВИДКIСТЬ СТРIЛЬБИ",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ЗБIЛЬША ВIДДАЧА",
+                  "value": "{bullet_square} ЗБIЛЬШЕНА ВIДДАЧА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -26571,7 +26571,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} НЕБОЛЬШЕ ЗБIЛЬШЕННЯ",
+                  "value": "{bullet_square} НЕВЕЛИКЕ ЗБIЛЬШЕННЯ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -27768,7 +27768,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} НЕБОЛЬШЕ ЗБIЛЬШЕННЯ",
+                  "value": "{bullet_square} НЕВЕЛИКЕ ЗБIЛЬШЕННЯ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -27859,7 +27859,7 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ВИСОЧА ТОЧНIСТЬ",
+                  "value": "{bullet_square} ВИСОКА ТОЧНIСТЬ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -28034,7 +28034,7 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ЗБIЛЬША ВIДДАЧА",
+                  "value": "{bullet_square} ЗБIЛЬШЕНА ВIДДАЧА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -28405,7 +28405,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ДЛЯ ВСТАНОВЛЕННЯ ПРИЦЕЛIВ",
+                  "value": "{bullet_square} ДЛЯ ВСТАНОВЛЕННЯ ПРИЦIЛIВ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -28447,7 +28447,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} НЕБОЛЬШЕ ЗБIЛЬШЕННЯ",
+                  "value": "{bullet_square} НЕВЕЛИКЕ ЗБIЛЬШЕННЯ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -28496,7 +28496,7 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ВИСОЧА ТОЧНIСТЬ",
+                  "value": "{bullet_square} ВИСОКА ТОЧНIСТЬ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -29182,7 +29182,7 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ЗБIЛЬША ВIДДАЧА",
+                  "value": "{bullet_square} ЗБIЛЬШЕНА ВIДДАЧА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -29602,7 +29602,7 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ВИСОЧА ТОЧНIСТЬ",
+                  "value": "{bullet_square} ВИСОКА ТОЧНIСТЬ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -29777,7 +29777,7 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ЗБIЛЬША ВIДДАЧА",
+                  "value": "{bullet_square} ЗБIЛЬШЕНА ВIДДАЧА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -30106,14 +30106,14 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ВИСОЧА ШВИДКIСТЬ СТРIЛЬБИ",
+                  "value": "{bullet_square} ВИСОКА ШВИДКIСТЬ СТРIЛЬБИ",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ЗБIЛЬША ВIДДАЧА",
+                  "value": "{bullet_square} ЗБIЛЬШЕНА ВIДДАЧА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -30148,7 +30148,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} НЕБОЛЬШЕ ЗБIЛЬШЕННЯ",
+                  "value": "{bullet_square} НЕВЕЛИКЕ ЗБIЛЬШЕННЯ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -30491,7 +30491,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ДОД. ПРОТИПАЛЮЧНА МIНА",
+                  "value": "{bullet_square} ДОД. ПРОТИПIХОТНА МIНА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -30617,7 +30617,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} НЕ РОЗIЗНАЭТЬСЯ",
+                  "value": "{bullet_square} НЕ РОЗПIЗНАЭТЬСЯ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -30666,14 +30666,14 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ЧIТКА ЗОБРАЖЕННЯ",
+                  "value": "{bullet_square} ЧIТКЕ ЗОБРАЖЕННЯ",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Info3",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ВИЗНАЧНИК ВIДСТАНИ",
+                  "value": "{bullet_square} ВИЗНАЧНИК ВIДСТАНI",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -31303,7 +31303,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ДЛЯ ВСТАНОВЛЕННЯ ПРИЦЕЛIВ",
+                  "value": "{bullet_square} ДЛЯ ВСТАНОВЛЕННЯ ПРИЦIЛIВ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -31345,7 +31345,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} НЕБОЛЬШЕ ЗБIЛЬШЕННЯ",
+                  "value": "{bullet_square} НЕВЕЛИКЕ ЗБIЛЬШЕННЯ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -31436,7 +31436,7 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ВИСОЧА ТОЧНIСТЬ",
+                  "value": "{bullet_square} ВИСОКА ТОЧНIСТЬ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -31611,7 +31611,7 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ЗБIЛЬША ВIДДАЧА",
+                  "value": "{bullet_square} ЗБIЛЬШЕНА ВIДДАЧА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -31982,7 +31982,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ДЛЯ ВСТАНОВЛЕННЯ ПРИЦЕЛIВ",
+                  "value": "{bullet_square} ДЛЯ ВСТАНОВЛЕННЯ ПРИЦIЛIВ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -32024,7 +32024,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} НЕБОЛЬШЕ ЗБIЛЬШЕННЯ",
+                  "value": "{bullet_square} НЕВЕЛИКЕ ЗБIЛЬШЕННЯ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -32073,7 +32073,7 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ВИСОЧА ТОЧНIСТЬ",
+                  "value": "{bullet_square} ВИСОКА ТОЧНIСТЬ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -32759,7 +32759,7 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ЗБIЛЬША ВIДДАЧА",
+                  "value": "{bullet_square} ЗБIЛЬШЕНА ВIДДАЧА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -33179,7 +33179,7 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ВИСОЧА ТОЧНIСТЬ",
+                  "value": "{bullet_square} ВИСОКА ТОЧНIСТЬ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -33354,7 +33354,7 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ЗБIЛЬША ВIДДАЧА",
+                  "value": "{bullet_square} ЗБIЛЬШЕНА ВIДДАЧА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -33683,14 +33683,14 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ВИСОЧА ШВИДКIСТЬ СТРIЛЬБИ",
+                  "value": "{bullet_square} ВИСОКА ШВИДКIСТЬ СТРIЛЬБИ",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ЗБIЛЬША ВIДДАЧА",
+                  "value": "{bullet_square} ЗБIЛЬШЕНА ВIДДАЧА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -33725,7 +33725,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} НЕБОЛЬШЕ ЗБIЛЬШЕННЯ",
+                  "value": "{bullet_square} НЕВЕЛИКЕ ЗБIЛЬШЕННЯ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -34068,7 +34068,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ДОД. ПРОТИПАЛЮЧНА МIНА",
+                  "value": "{bullet_square} ДОД. ПРОТИПIХОТНА МIНА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -34194,7 +34194,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} НЕ РОЗIЗНАЭТЬСЯ",
+                  "value": "{bullet_square} НЕ РОЗПIЗНАЭТЬСЯ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -34243,14 +34243,14 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ЧIТКА ЗОБРАЖЕННЯ",
+                  "value": "{bullet_square} ЧIТКЕ ЗОБРАЖЕННЯ",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Info3",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ВИЗНАЧНИК ВIДСТАНИ",
+                  "value": "{bullet_square} ВИЗНАЧНИК ВIДСТАНI",
                   "numChildren": 0,
                   "type": "data"
                 },
