@@ -3903,7 +3903,7 @@
                   "numChildren": 0,
                   "org_tbyte": 9,
                   "type": "data",
-                  "value": "ВИСТРIЛIВ ЗРОБЛЕНО"
+                  "value": "ПОСТРIЛIВ ЗРОБЛЕНО"
                 },
                 {
                   "name": "LS_RankTitle",
@@ -4393,21 +4393,21 @@
                   "numChildren": 0,
                   "org_tbyte": 9,
                   "type": "data",
-                  "value": "ВИСТРIЛIВ У ГОЛОВУ"
+                  "value": "ПОСТРIЛIВ У ГОЛОВУ"
                 },
                 {
                   "name": "txtShotsFired",
                   "numChildren": 0,
                   "org_tbyte": 9,
                   "type": "data",
-                  "value": "ВИСТРIЛIВ ЗРОБЛЕНО"
+                  "value": "ПОСТРIЛIВ ЗРОБЛЕНО"
                 },
                 {
                   "name": "txtShotsHit",
                   "numChildren": 0,
                   "org_tbyte": 9,
                   "type": "data",
-                  "value": "ВИСТРIЛIВ ПОТРАПИЛО В ЦIЛЬ"
+                  "value": "ПОСТРIЛIВ ПОТРАПИЛО В ЦIЛЬ"
                 },
                 {
                   "name": "txtTotalKills",
@@ -5023,7 +5023,7 @@
                   "numChildren": 0,
                   "org_tbyte": 9,
                   "type": "data",
-                  "value": "# ВИСТРIЛIВ У ГОЛОВУ"
+                  "value": "# ПОСТРIЛIВ У ГОЛОВУ"
                 },
                 {
                   "name": "DetailInnocentsKilled",
@@ -5058,14 +5058,14 @@
                   "numChildren": 0,
                   "org_tbyte": 9,
                   "type": "data",
-                  "value": "# ВИСТРIЛI ЗРОБЛЕНО"
+                  "value": "# ПОСТРIЛI ЗРОБЛЕНО"
                 },
                 {
                   "name": "DetailShotsHit",
                   "numChildren": 0,
                   "org_tbyte": 9,
                   "type": "data",
-                  "value": "# ВИСТРIЛIВ ПОТРАПИЛО"
+                  "value": "# ПОСТРIЛIВ ПОТРАПИЛО"
                 },
                 {
                   "name": "DetailTime",
@@ -5359,7 +5359,7 @@
                   "numChildren": 0,
                   "org_tbyte": 9,
                   "type": "data",
-                  "value": "ВИСТРIЛIВ У ГОЛОВУ"
+                  "value": "ПОСТРIЛIВ У ГОЛОВУ"
                 },
                 {
                   "name": "InformGame",
@@ -6171,7 +6171,7 @@
                   "numChildren": 0,
                   "org_tbyte": 9,
                   "type": "data",
-                  "value": "ВИСТРIЛIВ ЗРОБЛЕНО"
+                  "value": "ПОСТРIЛIВ ЗРОБЛЕНО"
                 },
                 {
                   "name": "SignIn",
@@ -6563,7 +6563,7 @@
                   "numChildren": 0,
                   "org_tbyte": 9,
                   "type": "data",
-                  "value": "СЕРЕДНЕ"
+                  "value": "СЕРЕДНЭ"
                 },
                 {
                   "name": "MouseSensitivity",
@@ -24912,7 +24912,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} СЕРЕДНЕ ЗБIЛЬШЕННЯ"
+                      "value": "{bullet_square} СЕРЕДНЭ ЗБIЛЬШЕННЯ"
                     },
                     {
                       "name": "Info2",
@@ -25689,7 +25689,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} ПОТРIБНО ПОЛЕГЧЕНИЙ КОРПУС"
+                      "value": "{bullet_square} ПОТРIБНО ПОЛЕГШЕНИЙ КОРПУС"
                     },
                     {
                       "name": "Info3",
@@ -25962,7 +25962,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "ПОЛЕГЧЕНИЙ КОРПУС"
+                      "value": "ПОЛЕГШЕНИЙ КОРПУС"
                     }
                   ],
                   "name": "Lightweight",
@@ -25976,7 +25976,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} СЕРЕДНЕ ЗБIЛЬШЕННЯ"
+                      "value": "{bullet_square} СЕРЕДНЭ ЗБIЛЬШЕННЯ"
                     },
                     {
                       "name": "Info2",
@@ -26060,7 +26060,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} СЕРЕДНЯ ГУЧНIСТЬ ВИСТРIЛА"
+                      "value": "{bullet_square} СЕРЕДНЯ ГУЧНIСТЬ ПОСТРIЛА"
                     },
                     {
                       "name": "Info2",
@@ -26102,7 +26102,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} МIНIМАЛЬНА ГУЧНIСТЬ ВИСТРIЛА"
+                      "value": "{bullet_square} МIНIМАЛЬНА ГУЧНIСТЬ ПОСТРIЛА"
                     },
                     {
                       "name": "Info2",
@@ -26697,7 +26697,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} СЕРЕДНЯ ГУЧНIСТЬ ВИСТРIЛА"
+                      "value": "{bullet_square} СЕРЕДНЯ ГУЧНIСТЬ ПОСТРIЛА"
                     },
                     {
                       "name": "Info2",
@@ -26739,7 +26739,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} МIНIМАЛЬНА ГУЧНIСТЬ ВИСТРIЛА"
+                      "value": "{bullet_square} МIНIМАЛЬНА ГУЧНIСТЬ ПОСТРIЛА"
                     },
                     {
                       "name": "Info2",
@@ -28489,7 +28489,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} СЕРЕДНЕ ЗБIЛЬШЕННЯ"
+                      "value": "{bullet_square} СЕРЕДНЭ ЗБIЛЬШЕННЯ"
                     },
                     {
                       "name": "Info2",
@@ -29266,7 +29266,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} ПОТРIБНО ПОЛЕГЧЕНИЙ КОРПУС"
+                      "value": "{bullet_square} ПОТРIБНО ПОЛЕГШЕНИЙ КОРПУС"
                     },
                     {
                       "name": "Info3",
@@ -29553,7 +29553,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} СЕРЕДНЕ ЗБIЛЬШЕННЯ"
+                      "value": "{bullet_square} СЕРЕДНЭ ЗБIЛЬШЕННЯ"
                     },
                     {
                       "name": "Info2",
@@ -29637,7 +29637,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} СЕРЕДНЯ ГУЧНIСТЬ ВИСТРIЛА"
+                      "value": "{bullet_square} СЕРЕДНЯ ГУЧНIСТЬ ПОСТРIЛА"
                     },
                     {
                       "name": "Info2",
@@ -29679,7 +29679,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} МIНIМАЛЬНА ГУЧНIСТЬ ВИСТРIЛА"
+                      "value": "{bullet_square} МIНIМАЛЬНА ГУЧНIСТЬ ПОСТРIЛА"
                     },
                     {
                       "name": "Info2",
@@ -30274,7 +30274,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} СЕРЕДНЯ ГУЧНIСТЬ ВИСТРIЛА"
+                      "value": "{bullet_square} СЕРЕДНЯ ГУЧНIСТЬ ПОСТРIЛА"
                     },
                     {
                       "name": "Info2",
@@ -30316,7 +30316,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} МIНIМАЛЬНА ГУЧНIСТЬ ВИСТРIЛА"
+                      "value": "{bullet_square} МIНIМАЛЬНА ГУЧНIСТЬ ПОСТРIЛА"
                     },
                     {
                       "name": "Info2",
@@ -32066,7 +32066,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} СЕРЕДНЕ ЗБIЛЬШЕННЯ"
+                      "value": "{bullet_square} СЕРЕДНЭ ЗБIЛЬШЕННЯ"
                     },
                     {
                       "name": "Info2",
@@ -32843,7 +32843,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} ПОТРIБНО ПОЛЕГЧЕНИЙ КОРПУС"
+                      "value": "{bullet_square} ПОТРIБНО ПОЛЕГШЕНИЙ КОРПУС"
                     },
                     {
                       "name": "Info3",
@@ -33116,7 +33116,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "ПОЛЕГЧЕНИЙ КОРПУС"
+                      "value": "ПОЛЕГШЕНИЙ КОРПУС"
                     }
                   ],
                   "name": "Lightweight",
@@ -33130,7 +33130,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} СЕРЕДНЕ ЗБIЛЬШЕННЯ"
+                      "value": "{bullet_square} СЕРЕДНЭ ЗБIЛЬШЕННЯ"
                     },
                     {
                       "name": "Info2",
@@ -33214,7 +33214,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} СЕРЕДНЯ ГУЧНIСТЬ ВИСТРIЛА"
+                      "value": "{bullet_square} СЕРЕДНЯ ГУЧНIСТЬ ПОСТРIЛА"
                     },
                     {
                       "name": "Info2",
@@ -33256,7 +33256,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} МIНIМАЛЬНА ГУЧНIСТЬ ВИСТРIЛА"
+                      "value": "{bullet_square} МIНIМАЛЬНА ГУЧНIСТЬ ПОСТРIЛА"
                     },
                     {
                       "name": "Info2",
@@ -33851,7 +33851,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} СЕРЕДНЯ ГУЧНIСТЬ ВИСТРIЛА"
+                      "value": "{bullet_square} СЕРЕДНЯ ГУЧНIСТЬ ПОСТРIЛА"
                     },
                     {
                       "name": "Info2",
@@ -33893,7 +33893,7 @@
                       "numChildren": 0,
                       "org_tbyte": 9,
                       "type": "data",
-                      "value": "{bullet_square} МIНIМАЛЬНА ГУЧНIСТЬ ВИСТРIЛА"
+                      "value": "{bullet_square} МIНIМАЛЬНА ГУЧНIСТЬ ПОСТРIЛА"
                     },
                     {
                       "name": "Info2",
@@ -35527,7 +35527,7 @@
               "numChildren": 0,
               "org_tbyte": 9,
               "type": "data",
-              "value": "Швидше продати папери тому, хто бiльше запропонуэ. У всiх тут же дупи спалахнули."
+              "value": "Швидше продати папери тому, хто бiльше запропонуэ. У всiх тут же сраки спалахнули."
             },
             {
               "name": "2943-3108",
@@ -36423,7 +36423,7 @@
               "numChildren": 0,
               "org_tbyte": 9,
               "type": "data",
-              "value": "Плодьте, мiстере Джонсоне, погано. Дозвольте взяти валiзу?"
+              "value": "Плодьте, мiстере Джонсоне. Дозвольте взяти валiзу?"
             },
             {
               "name": "1180-1220",
@@ -37790,7 +37790,7 @@
                   "numChildren": 0,
                   "org_tbyte": 9,
                   "type": "data",
-                  "value": "Сивий"
+                  "value": "Сиве"
                 },
                 {
                   "name": "Height",
@@ -37853,7 +37853,7 @@
                   "numChildren": 0,
                   "org_tbyte": 9,
                   "type": "data",
-                  "value": "Сивий"
+                  "value": "Сиве"
                 },
                 {
                   "name": "Height",
