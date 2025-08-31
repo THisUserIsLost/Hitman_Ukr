@@ -56,7 +56,7 @@
         {
           "name": "CloseDoor",
           "org_tbyte": 9,
-          "value": "Закрити дверi",
+          "value": "Зачинити дверi",
           "numChildren": 0,
           "type": "data"
         },
