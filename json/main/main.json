@@ -196,7 +196,7 @@
         {
           "name": "OpenDoor",
           "org_tbyte": 9,
-          "value": "Вiдкрити дверi",
+          "value": "Вiдчинити дверi",
           "numChildren": 0,
           "type": "data"
         },
