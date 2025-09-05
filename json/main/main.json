@@ -203,7 +203,7 @@
         {
           "name": "OperateDoor",
           "org_tbyte": 9,
-          "value": "Використовувати дверi",
+          "value": "Використати дверi",
           "numChildren": 0,
           "type": "data"
         },
@@ -371,7 +371,7 @@
         {
           "name": "UseKeyCard",
           "org_tbyte": 9,
-          "value": "Використовувати ключ-картку",
+          "value": "Використати ключ-картку",
           "numChildren": 0,
           "type": "data"
         }
