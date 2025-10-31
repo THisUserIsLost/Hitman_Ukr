@@ -1,5 +1,5 @@
 # Українізатор для Hitman: Blood Money
-Hitman: Blood Money Ukr. v.1.4
+Hitman: Blood Money Ukr. v.2.2
 
 ![example workflow](https://github.com/romamakar/Hitman_Ukr/actions/workflows/dotnet-desktop.yml/badge.svg?branch=master)
 
@@ -9,7 +9,6 @@ Hitman: Blood Money Ukr. v.1.4
 
 
 Буду дуже радий підтримці, кожен охочий може докластись до розробки та виправляти. Всі стрічки знаходяться в папці json.
-Якщо десь знайдете коректний декомпілятор з loc в json і навпаки - зможемо зробити повноцінний переклад.
 
 На підтримку:
 
