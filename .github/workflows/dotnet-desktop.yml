@@ -43,7 +43,7 @@ jobs:
       - name: Upload installer
         uses: softprops/action-gh-release@v2
         with:
-          files: "HitmanBM_Ukr2_2.exe"
+          files: "installer\\output\\HitmanBM_Ukr2_2.exe"
           tag_name: "exe"  # Можна використовувати будь-який тег, якщо потрібно
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

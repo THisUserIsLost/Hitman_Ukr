@@ -21,7 +21,7 @@ DisableDirPage=no
 ;PrivilegesRequired=lowest
 OutputBaseFilename=HitmanBM_Ukr2_2
 OutputDir=Output
-SetupIconFile=D:\a\Hitman_Ukr\Hitman_Ukr\installer.ico
+SetupIconFile=D:\a\Hitman_Ukr\Hitman_Ukr\installer\installer.ico
 SolidCompression=yes
 WizardStyle=modern dynamic
 
