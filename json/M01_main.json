@@ -23,14 +23,14 @@
               "numChildren": 0,
               "org_tbyte": 9,
               "type": "data",
-              "value": "Зламати електрощит"
+              "value": "تفعيل جهاز الانذار"
             },
             {
               "name": "CallElevator",
               "numChildren": 0,
               "org_tbyte": 9,
               "type": "data",
-              "value": "Викликати лiфт"
+              "value": "استدع المصعد"
             },
             {
               "name": "Cancel",
@@ -51,14 +51,14 @@
               "numChildren": 0,
               "org_tbyte": 9,
               "type": "data",
-              "value": "Опустити кришку"
+              "value": "افتح الصندوق"
             },
             {
               "name": "CloseDoor",
               "numChildren": 0,
               "org_tbyte": 9,
               "type": "data",
-              "value": "Закрити дверi"
+              "value": "اغلق الباب"
             },
             {
               "name": "Combine",
@@ -86,7 +86,7 @@
               "numChildren": 0,
               "org_tbyte": 9,
               "type": "data",
-              "value": "Тягти тiло"
+              "value": "اسحب الجثة"
             },
             {
               "name": "DropBody",
@@ -198,7 +198,7 @@
               "numChildren": 0,
               "org_tbyte": 9,
               "type": "data",
-              "value": "Вiдкрити дверi"
+              "value": "افتح الباب"
             },
             {
               "name": "OperateDoor",
@@ -233,7 +233,7 @@
               "numChildren": 0,
               "org_tbyte": 9,
               "type": "data",
-              "value": "Одяг"
+              "value": "خذ الملابس"
             },
             {
               "name": "Place",
@@ -324,7 +324,7 @@
               "numChildren": 0,
               "org_tbyte": 9,
               "type": "data",
-              "value": "Одяг"
+              "value": "خذ الملابس"
             },
             {
               "name": "Talk",
